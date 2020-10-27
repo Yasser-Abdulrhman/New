@@ -7,7 +7,7 @@ This program can price a cart of products, accept multiple products, combine off
 This class has four properties id , name , price , discount , has getter and setter function for this properties and has function for calculating the price after discount if found.
 #### 2.Cart Class
 This class has array to save items in which user added it in the cart , has many function like 
-⋅⋅*•	Function for checking if the product you will add it into the cart, you added it before or not, this function.
+..* Function for checking if the product you will add it into the cart, you added it before or not, this function.
 
 
 
